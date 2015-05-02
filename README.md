@@ -1,19 +1,23 @@
 Minesweeper
 ===========
 
-This is my first browser game, written in Flash ActionScript 3.
+[![Screenshot][]][play]
 
-[Play it here](http://www.joeyespo.com/minesweeper).
+This is my first browser game, written in Flash ActionScript 3. Even though
+it's a few years old, this project helped spark the idea of what eventually
+became The Gameblog.
+
+[Play it!][play]
 
 
-Usage
-=====
+Building locally
+----------------
 
 Compile with Flash, then open `bin/index.html` in your browser.
 
 
-Screenshots
-===========
+More Screenshots
+----------------
 
 <img src="artwork/screenshot-1.png" alt="New game" width="640" width="480" />
 
@@ -25,5 +29,17 @@ Screenshots
 
 <img src="artwork/screenshot-5.png" alt="Win" width="640" width="480" />
 
-
 Built with :heart: Enjoy!
+
+
+Contributing
+------------
+
+1. Check the open issues or open a new issue to start a discussion around
+   your feature idea or the bug you found
+2. Fork the repository, make your changes, and add yourself to [Authors.md][]
+3. Send a pull request
+
+
+[screenshot]: screenshot.png
+[play]: http://gameblog.gessojs.com/minesweeper/
