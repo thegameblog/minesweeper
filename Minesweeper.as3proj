@@ -4,7 +4,7 @@
   <output>
     <movie disabled="False" />
     <movie input="" />
-    <movie path="bin\Minesweeper.swf" />
+    <movie path="dist\minesweeper.swf" />
     <movie fps="60" />
     <movie width="640" />
     <movie height="480" />

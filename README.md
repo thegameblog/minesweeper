@@ -13,7 +13,7 @@ became The Gameblog.
 Building locally
 ----------------
 
-Compile with Flash, then open `bin/index.html` in your browser.
+Build with Flash, then open `dist/index.html` in your browser.
 
 
 More Screenshots
