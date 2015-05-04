@@ -37,7 +37,7 @@ Contributing
 
 1. Check the open issues or open a new issue to start a discussion around
    your feature idea or the bug you found
-2. Fork the repository, make your changes, and add yourself to [Authors.md][]
+2. Fork the repository and make your changes
 3. Send a pull request
 
 
