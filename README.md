@@ -42,4 +42,4 @@ Contributing
 
 
 [screenshot]: screenshot.png
-[play]: http://gameblog.gessojs.com/minesweeper/
+[play]: http://thegameblog.com/minesweeper
